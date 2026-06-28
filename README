@@ -1,0 +1,27 @@
+# Match Coins Game
+
+This project is an object-oriented Python game for Lab 9.
+
+## Description
+
+The game creates two players. Each player has a wallet of coins and a coin object. Each round, both players toss their coins. If the coins match, Player 1 wins a coin. If the coins do not match, Player 2 wins a coin.
+
+## Files
+
+- `coin.py`: Contains the Coin class.
+- `player.py`: Contains the Player class.
+- `Lab9_amedina6-1.py`: Runs the main game logic.
+
+## OOP Concepts Used
+
+- Classes
+- Objects
+- Private attributes
+- Methods
+- Composition
+- Modules and imports
+
+## How to Run
+
+bash terminal 
+python Lab9_amedina6-1.py
